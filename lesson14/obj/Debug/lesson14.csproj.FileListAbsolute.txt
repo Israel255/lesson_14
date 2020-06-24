@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\עבודות\lesson 14 - oop\LESSON_14_OOP\lesson14\obj\Debug\lesson14.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\lesson 14 - oop\LESSON_14_OOP\lesson14\obj\Debug\lesson14.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\lesson 14 - oop\LESSON_14_OOP\lesson14\bin\Debug\lesson14.exe.config
+C:\Users\USER\Desktop\עבודות\lesson 14 - oop\LESSON_14_OOP\lesson14\bin\Debug\lesson14.exe
+C:\Users\USER\Desktop\עבודות\lesson 14 - oop\LESSON_14_OOP\lesson14\bin\Debug\lesson14.pdb
+C:\Users\USER\Desktop\עבודות\lesson 14 - oop\LESSON_14_OOP\lesson14\obj\Debug\lesson14.exe
+C:\Users\USER\Desktop\עבודות\lesson 14 - oop\LESSON_14_OOP\lesson14\obj\Debug\lesson14.pdb
